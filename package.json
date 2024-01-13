@@ -1,0 +1,23 @@
+{
+  "name": "js-sortify",
+  "version": "1.0.0",
+  "description": "This package lets you sort your array in ascending or descending order with many different algorithms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sort",
+    "sortify",
+    "sortifyjs",
+    "data",
+    "array",
+    "sorting",
+    "algorithm",
+    "algorithms",
+    "ascending",
+    "descending"
+  ],
+  "author": "Sezer Gümüş",
+  "license": "MIT"
+}
