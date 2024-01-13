@@ -1,13 +1,13 @@
-# `sortify-js` Library
+# `js-sortify` Library
 
 This npm package includes various sorting algorithms. Users can sort an array by providing an array and a sorting order (ascending - "asc" or descending - "desc").
 
 ## Installation
 
 ```bash
-    npm install sortify-js
+    npm install js-sortify
     # or
-    yarn add sortify-js
+    yarn add js-sortify
 ```
 
 ## Usage
@@ -15,9 +15,9 @@ This npm package includes various sorting algorithms. Users can sort an array by
 1. **Importing the Library:**
 
    ```javascript
-   const sortify = require("sortify-js");
+   const sortify = require("js-sortify");
    // or
-   import { quickSort, isSorted } from "sortify-js";
+   import { quickSort, isSorted } from "js-sortify";
    ```
 
 2. **Example Usage:**
